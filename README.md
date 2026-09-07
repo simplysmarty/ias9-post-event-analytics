@@ -103,35 +103,35 @@ The dataset contains **2,002 attendee records** with the following fields:
 
 ## 💡 Key Findings
 
-### Finding 1 — IAS 9.0 Set a Registration Record
+### Finding 1 - IAS 9.0 Set a Registration Record
 2,002 total registrations makes IAS 9.0 one of the largest editions in the summit's history. The event generated genuine campus-wide interest — with registrants spanning over 30 departments across the university. This growth demonstrates significant brand awareness improvement over previous editions.
 
-### Finding 2 — Walk-in Culture Dominates at 67.3%
+### Finding 2 - Walk-in Culture Dominates at 67.3%
 Only 655 people (32.7%) pre-registered before the event. The remaining 1,347 (67.3%) registered on-site on event day. While this demonstrates strong ground-level buzz and spontaneous interest, it creates significant operational pressure at registration desks and limits the organising committee's ability to plan capacity, seating and materials in advance.
 
-### Finding 3 — Day 2 Outperformed Day 1 in Attendance
-Despite 1,034 people attending Day 1, attendance actually grew to 1,397 on Day 2 — a 35.1% increase. This counter-intuitive pattern suggests that positive word-of-mouth from Day 1 drove additional attendees to show up on Day 2, including people who had registered but did not attend Day 1. This is a strong signal of content quality and on-the-ground buzz.
+### Finding 3 - Day 2 Outperformed Day 1 in Attendance
+Despite 1,034 people attending Day 1, attendance actually grew to 1,397 on Day 2 - a 35.1% increase. This counter-intuitive pattern suggests that positive word-of-mouth from Day 1 drove additional attendees to show up on Day 2, including people who had registered but did not attend Day 1. This is a strong signal of content quality and on-the-ground buzz.
 
-### Finding 4 — 64% Retention Rate is Excellent for a Two-Day Student Event
-Of the 1,034 Day 1 attendees, 665 returned for Day 2 — a retention rate of 64.2%. For a two-day student event with no enforced attendance requirement, this is an excellent result. It confirms that attendees found enough value in Day 1 to commit to returning for Day 2.
+### Finding 4 - 64% Retention Rate is Excellent for a Two-Day Student Event
+Of the 1,034 Day 1 attendees, 665 returned for Day 2 - a retention rate of 64.2%. For a two-day student event with no enforced attendance requirement, this is an excellent result. It confirms that attendees found enough value in Day 1 to commit to returning for Day 2.
 
-### Finding 5 — Accounting Department Registered 773 People But Non-Accounting Students Dominated Overall Attendance
+### Finding 5 - Accounting Department Registered 773 People But Non-Accounting Students Dominated Overall Attendance
 Accounting registered 773 people — the most of any department. However, the remaining 30+ departments combined represented 57.5% of total attendance across both days. This cross-faculty reach is a significant achievement but also reveals a counterintuitive gap — the department the event is most associated with had a lower proportional turnout rate than non-accounting departments, suggesting an engagement problem among Accounting students themselves.
 
-### Finding 6 — 100L Students Are the Most Engaged Segment
+### Finding 6 - 100L Students Are the Most Engaged Segment
 First-year students (100L) led every metric: 757 registrations (the most of any level), 352 Day 2 attendees and 264 both-day attendees. This makes 100L students the single most engaged cohort at IAS 9.0. Capturing and retaining this audience from Year 1 creates a pipeline of loyal attendees who can attend IAS for up to five editions during their academic journey.
 
-### Finding 7 — NUASA Announcements and Peer Referrals Are the Most Effective Awareness Channels
-Of the 655 pre-registrations, 255 (38.9%) came through NUASA announcements and 132 (20.2%) through friend or colleague referrals. These two channels together drove 59.1% of all pre-registrations — outperforming social media (42), department notices (97) and public forms (108) combined. This confirms that community-driven, peer-to-peer communication is the most powerful discovery mechanism for IAS.
+### Finding 7 - NUASA Announcements and Peer Referrals Are the Most Effective Awareness Channels
+Of the 655 pre-registrations, 255 (38.9%) came through NUASA announcements and 132 (20.2%) through friend or colleague referrals. These two channels together drove 59.1% of all pre-registrations - outperforming social media (42), department notices (97) and public forms (108) combined. This confirms that community-driven, peer-to-peer communication is the most powerful discovery mechanism for IAS.
 
-### Finding 8 — Certificate Delivery Reached 91.6% with 56 Still Pending
-Of the 665 cert-eligible attendees, 609 have received their certificates (91.6%) and 56 remain pending. The pending tracker on Page 3 shows the exact IDs, departments and levels of outstanding recipients — enabling the committee to complete delivery systematically rather than guessing. Accounting has the most pending cases given its volume.
+### Finding 8 - Certificate Delivery Reached 91.6% with 56 Still Pending
+Of the 665 cert-eligible attendees, 609 have received their certificates (91.6%) and 56 remain pending. The pending tracker on Page 3 shows the exact IDs, departments and levels of outstanding recipients - enabling the committee to complete delivery systematically rather than guessing. Accounting has the most pending cases given its volume.
 
-### Finding 9 — 236 Registrants Were No-Shows
-236 people who registered (pre-registration or walk-in) did not attend either day. This 11.8% no-show rate is relatively low but represents real operational waste — especially for pre-registrations where materials may have been prepared. Understanding which levels and departments contribute most to no-shows can help refine communication strategies for IAS 10.0.
+### Finding 9 - 236 Registrants Were No-Shows
+236 people who registered (pre-registration or walk-in) did not attend either day. This 11.8% no-show rate is relatively low but represents real operational waste - especially for pre-registrations where materials may have been prepared. Understanding which levels and departments contribute most to no-shows can help refine communication strategies for IAS 10.0.
 
-### Finding 10 — Social Media Is the Weakest Discovery Channel
-Despite being one of the most invested promotional channels for many events, social media drove only 42 pre-registrations — the second-lowest of all channels, above only "Other" (21). This suggests that IAS 9.0's social media presence was either not optimised for conversion or not reaching the right segments of the OAU student population.
+### Finding 10 - Social Media Is the Weakest Discovery Channel
+Despite being one of the most invested promotional channels for many events, social media drove only 42 pre-registrations - the second-lowest of all channels, above only "Other" (21). This suggests that IAS 9.0's social media presence was either not optimised for conversion or not reaching the right segments of the OAU student population.
 
 ---
 
@@ -140,7 +140,7 @@ Despite being one of the most invested promotional channels for many events, soc
 ### 1. Launch Pre-Registration at Least 3 Weeks Before the Event
 Only 32.7% pre-registered. An earlier, more sustained campaign — starting at week one of the semester before IAS 10.0 — would allow the committee to build momentum gradually, reduce registration desk pressure on event day and give logistics planning more reliable attendee numbers to work with.
 
-### 2. Communicate Day 1 Attendance as the Certification Gateway — Loudly and Early
+### 2. Communicate Day 1 Attendance as the Certification Gateway - Loudly and Early
 737 people attended Day 2 only and missed cert eligibility because they did not attend Day 1. Many of these attendees may not have understood that attending both days was required for certification. A clear, repeated pre-event communication — through all channels — that Day 1 attendance is mandatory for cert eligibility would meaningfully improve both-day retention.
 
 ### 3. Invest Heavily in NUASA Announcements and Peer Ambassador Programmes
@@ -150,7 +150,7 @@ NUASA announcements and peer referrals drove 59.1% of all pre-registrations betw
 First-year students showed the highest engagement at every level. A deliberate strategy to introduce IAS at faculty orientations, first-semester lectures and 100L-specific department groups would cement IAS as a must-attend event from the moment students arrive on campus. A student who attends IAS from 100L can become a five-edition loyalist.
 
 ### 5. Investigate and Resolve the Accounting Student Engagement Gap
-Accounting is the department most directly associated with IAS, yet non-accounting students collectively outnumbered Accounting students at the event. A post-event survey targeting Accounting students specifically — asking why they did not attend or did not pre-register — would identify whether this is an awareness problem, a scheduling problem, an interest problem or a perception problem. The answer should directly shape IAS 10.0 outreach.
+Accounting is the department most directly associated with IAS, yet non-accounting students collectively outnumbered Accounting students at the event. A post-event survey targeting Accounting students specifically — asking why they did not attend or did not pre-register -would identify whether this is an awareness problem, a scheduling problem, an interest problem or a perception problem. The answer should directly shape IAS 10.0 outreach.
 
 ### 6. Complete the 56 Pending Certificate Deliveries Immediately
 The pending tracker on Page 3 provides the exact list of IDs, departments and levels. These 56 certificates should be sent before IAS 10.0 planning begins — both as a commitment to attendees who earned them and to protect NUASA's reputation as an organisation that follows through on its promises. A 91.6% delivery rate is good; 100% is the standard to reach.
